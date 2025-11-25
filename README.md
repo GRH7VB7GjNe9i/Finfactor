@@ -30,9 +30,9 @@ This project provides a local web service + a modern UI for browsing, searching,
   ### 🔹 Screenshots
 
   <img width="1883" height="960" alt="Screenshot 2025-11-25 191552" src="https://github.com/user-attachments/assets/e54833d8-9075-431d-a681-2f30c4dd1d8a" />
-<img width="1882" height="963" alt="Screenshot 2025-11-25 191613" src="https://github.com/user-attachments/assets/5072020e-d7d0-4453-af9c-bbbfb370313f" />
-<img width="1880" height="960" alt="Screenshot 2025-11-25 191633" src="https://github.com/user-attachments/assets/68e59c4b-1f8e-4aab-8624-fc2f595cef20" />
-<img width="1881" height="952" alt="Screenshot 2025-11-25 191650" src="https://github.com/user-attachments/assets/5c59800e-ee22-4dc8-9819-d212a339112f" />
+  <img width="1882" height="963" alt="Screenshot 2025-11-25 191613" src="https://github.com/user-attachments/assets/5072020e-d7d0-4453-af9c-bbbfb370313f" />
+  <img width="1880" height="960" alt="Screenshot 2025-11-25 191633" src="https://github.com/user-attachments/assets/68e59c4b-1f8e-4aab-8624-fc2f595cef20" />
+  <img width="1881" height="952" alt="Screenshot 2025-11-25 191650" src="https://github.com/user-attachments/assets/5c59800e-ee22-4dc8-9819-d212a339112f" />
 
 # ⚙️ Backend Setup
 

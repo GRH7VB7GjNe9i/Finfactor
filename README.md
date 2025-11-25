@@ -20,7 +20,7 @@ This project provides a local web service + a modern UI for browsing, searching,
 - Search meals by name  
 - Browse categories  
 - Random meal generator  
-- Beautiful animations thanks to **Framer Motion**  
+- Beautiful animations with **Framer Motion**  
 - Detailed recipe view:
   - Ingredients  
   - Instructions  
